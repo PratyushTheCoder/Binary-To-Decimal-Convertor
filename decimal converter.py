@@ -5,6 +5,13 @@ Steps:-
 
 Please enter the number that you want to convert from binary to decimal: """)
 
+# nonbinary=['2','3','4','5','6','7','8','9']
+
+# for i in range[len(nonbinary)]:
+#     if nonbinary[i] in numberinput:
+#         print("ERROR! Please enter a binary number")
+#         exit()
+
 numberlist=[]
 numberlist2=[]
 
